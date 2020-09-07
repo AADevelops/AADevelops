@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+## :chart_with_upwards_trend: My GitHub Stats:
+
+<div>
+    <a href = "https://github-readme-stats.vercel.app/api?username=AA-Develops&show_icons=true&theme=ayu-mirage">
+        <img src = "https://github-readme-stats.vercel.app/api?username=AA-Develops&show_icons=true&theme=ayu-mirage" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-Develops&theme=ayu-mirage">
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AA-Develops&theme=ayu-mirage" />
+    </a>
+</div>
 
 <!--
 **AA-Develops/AA-Develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
