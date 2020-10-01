@@ -8,6 +8,8 @@
     </a>
 </div>
 
+<br>
+
 <details>
 	<summary>:rocket: My Top Languages</summary>
 	<br>
